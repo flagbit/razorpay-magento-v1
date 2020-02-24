@@ -1,0 +1,5 @@
+js/razorpay/razorpay-utils.js js/razorpay/razorpay-utils.js
+app/code/community/Razorpay/Payments app/code/community/Razorpay/Payments
+app/design/frontend/base/default/layout/razorpay.xml app/design/frontend/base/default/layout/razorpay.xml
+app/design/frontend/base/default/template/razorpay/checkout.phtml app/design/frontend/base/default/template/razorpay/checkout.phtml
+app/etc/modules/Razorpay_Payments.xml app/etc/modules/Razorpay_Payments.xml
