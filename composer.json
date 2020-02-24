@@ -1,0 +1,12 @@
+{
+  "name": "razorpay/razorpay-magento-v1",
+  "license": "MIT",
+  "type": "magento-module",
+  "description": "Razorpay is a payment aggregator to accept payments from various method including netbanking, credit card, debit card, wallets etc.",
+  "version": "1.2.0",
+  "time": "2017-11-01 16:40:36",
+  "require": {
+    "php": ">=5.4.45 <=7.2.3",
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
